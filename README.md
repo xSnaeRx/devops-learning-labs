@@ -12,14 +12,14 @@ A hands-on portfolio documenting progressive infrastructure and cloud engineerin
 
 ---
 
-### Terraform + Docker *(in progress)*(https://github.com/xSnaeRx/docker-containers-with-terraform.git)
+### [Terraform + Docker](https://github.com/xSnaeRx/docker-containers-with-terraform.git) *(in progress)*
 Extending Terraform skills to manage containerized workloads using Docker as the provider. Covers image management, container lifecycle, networking, and volume configuration — all provisioned declaratively via Terraform.
 
 **Tools & Concepts:** Terraform, Docker, container networking, image management
 
 ---
 
-### Kubernetes / Helm(https://github.com/xSnaeRx/k8s-security-portfolio.git)
+### [Kubernetes / Helm](https://github.com/xSnaeRx/k8s-security-portfolio.git)
 Hands-on Kubernetes cluster management and Helm-based application deployment. Includes deploying stateful workloads, working with namespaces, services, and configmaps, and packaging deployments as Helm charts.
 
 **Tools & Concepts:** Kubernetes, Helm, Deployments, Services, ConfigMaps, StatefulSets, MariaDB
@@ -27,7 +27,7 @@ Hands-on Kubernetes cluster management and Helm-based application deployment. In
 
 ---
 
-### Cloud Security / Wiz Prep(https://github.com/xSnaeRx/k8s-security-portfolio/blob/8c3e3d1fde8c0813bdebdc57d3931303ef960e64/eks/eks-cluster-games-findings.md)
+### [Cloud Security / Wiz Prep](https://github.com/xSnaeRx/k8s-security-portfolio/blob/8c3e3d1fde8c0813bdebdc57d3931303ef960e64/eks/eks-cluster-games-findings.md)
 Applied cloud security concepts mapped to real-world infrastructure. Covers CSPM (Cloud Security Posture Management), CWPP (Cloud Workload Protection Platform), IAM policy analysis, and Kubernetes RBAC in the context of cloud-native security tooling.
 
 **Tools & Concepts:** CSPM, CWPP, IAM, Kubernetes RBAC, Service Accounts, least privilege, attack surface reduction
