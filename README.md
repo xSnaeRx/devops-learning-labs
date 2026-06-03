@@ -6,35 +6,28 @@ A hands-on portfolio documenting progressive infrastructure and cloud engineerin
 
 ## Modules
 
-### Terraform + AWS
-Infrastructure as Code fundamentals using HashiCorp Terraform with AWS as the cloud provider. Covers resource provisioning, state management, variables, and outputs following the official HashiCorp getting started curriculum.
+### [Terraform + AWS](https://github.com/xSnaeRx/learn-terraform-get-started-aws) Infrastructure as Code fundamentals using HashiCorp Terraform with AWS as the cloud provider. Covers resource provisioning, state management, variables, and outputs following the official HashiCorp getting started curriculum.
 
 **Tools & Concepts:** Terraform, AWS (EC2, VPC, S3), HCL, remote state
 
 ---
 
-### Terraform + Docker *(in progress)*
+### Terraform + Docker *(in progress)*(https://github.com/xSnaeRx/docker-containers-with-terraform.git)
 Extending Terraform skills to manage containerized workloads using Docker as the provider. Covers image management, container lifecycle, networking, and volume configuration — all provisioned declaratively via Terraform.
 
 **Tools & Concepts:** Terraform, Docker, container networking, image management
 
 ---
 
-### Kubernetes / Helm
+### Kubernetes / Helm(https://github.com/xSnaeRx/k8s-security-portfolio.git)
 Hands-on Kubernetes cluster management and Helm-based application deployment. Includes deploying stateful workloads, working with namespaces, services, and configmaps, and packaging deployments as Helm charts.
 
 **Tools & Concepts:** Kubernetes, Helm, Deployments, Services, ConfigMaps, StatefulSets, MariaDB
 
----
-
-### EKS (AWS)
-Amazon Elastic Kubernetes Service configuration and cluster management on AWS. Covers cluster provisioning, node group configuration, IAM integration (IRSA), and connecting kubectl to managed clusters.
-
-**Tools & Concepts:** EKS, AWS IAM, IRSA, kubectl, kubeconfig, node groups
 
 ---
 
-### Cloud Security / Wiz Prep
+### Cloud Security / Wiz Prep(https://github.com/xSnaeRx/k8s-security-portfolio/blob/8c3e3d1fde8c0813bdebdc57d3931303ef960e64/eks/eks-cluster-games-findings.md)
 Applied cloud security concepts mapped to real-world infrastructure. Covers CSPM (Cloud Security Posture Management), CWPP (Cloud Workload Protection Platform), IAM policy analysis, and Kubernetes RBAC in the context of cloud-native security tooling.
 
 **Tools & Concepts:** CSPM, CWPP, IAM, Kubernetes RBAC, Service Accounts, least privilege, attack surface reduction
